@@ -2,6 +2,7 @@
 This project aims to teach people how to create preliminary visualizations of their data using the R programming language. If you haven't had any experience in coding, no worries! We'll learn together how simple it can be to ingest data and gain valuable insights.
 
 ![image taken from "https://www.technewsworld.com/article_images/story_graphics_xlarge/xl-2018-businesswoman-1.jpg"](images/data-world.jpg)
+*Sharpening your data visualization skills can open a world of opportunity*
 
 ## Course Format
 Each subfolder of this project will contain a particular topic, along with a `solutions_{chapter}` file that provide an approach to the practice questions (as you'll learn through this course, there are **multiple** ways to code things and get to the same end solution; the `solutions_{chapter}` file will give you an example of a preferable one).
