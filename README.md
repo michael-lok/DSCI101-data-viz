@@ -2,6 +2,7 @@
 This project aims to teach people how to create preliminary visualizations of their data using the R programming language. If you haven't had any experience in coding, no worries! We'll learn together how simple it can be to ingest data and gain valuable insights.
 
 ![image taken from "https://www.technewsworld.com/article_images/story_graphics_xlarge/xl-2018-businesswoman-1.jpg"](images/data-world.jpg)
+
 *Sharpening your data visualization skills can open a world of opportunity*
 
 ## Course Format
@@ -30,4 +31,5 @@ The data that you receive may not always be in a format that is immediately read
 * **Practice:** 
 
 ![](images/diamond-in-the-rough.jpg)
+
 *The OG Diamond in the Rough: Aladdin*
