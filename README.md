@@ -28,4 +28,5 @@ The data that you receive may not always be in a format that is immediately read
 * `dplyr` Pipes
 * **Practice:** 
 
-![The OG Diamond in the Rough: Aladdin](images/diamond-in-the-rough.jpg)
+![](images/diamond-in-the-rough.jpg)
+*The OG Diamond in the Rough: Aladdin*
