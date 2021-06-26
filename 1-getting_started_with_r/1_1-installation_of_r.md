@@ -6,7 +6,7 @@ Let's get started by preparing our device for use in the R language.
   * I'd recommend keeping it in your dock, or at least remember you can easily open it up by pressing `Cmd + Space` and typing **RStudio**.
 * At this point, you should see a screen similar to the one below. A few things to know about the RStudio IDE: It is a user interface (UI) that allows you to write new R code, view your existing environment (variables/objects you've saved for retrieval), navigate through your directory structure, and perform commands in your Terminal (we won't go over this in this course, but helpful to know).
 * **Environment** The place where your defined R objects in the current session can be tracked. You'll learn later in this chapter that you can have a variable represent some value; the environment lets you keep track of what these variables are.
-  * **Files** This pane will show you the directory structure, starting at your user's Home directory. If you take a look at the screenshot, I've already navigated to the `DSCI101-data-viz` location on my computer. You'll want to do this each time you start an R session in this course.
+* **Files** This pane will show you the directory structure, starting at your user's Home directory. If you take a look at the screenshot, I've already navigated to the `DSCI101-data-viz` location on my computer. You'll want to do this each time you start an R session in this course.
 * **Console** This is the pane that allows you to write/execute R commands, as well as see the output of particular functions.
 * **Source** This currently isn't seen in the screenshot, but once you open up a file, a new pane will populate the top-left quadrant of your IDE. This is where we'll spend most of our time interacting and writing code.
 
