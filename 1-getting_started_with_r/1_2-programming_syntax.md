@@ -87,7 +87,7 @@ start a new file in one of two ways:
     RStudio view, you’ll see a new pane pop up above your `Environment.`
     This is our `Source` pane, where we can read/edit files).
 
-![](/images/1-new_file.png)
+![](/Users/michaellok4/projects/DSCI101-data-viz/images/1-new_file.png)
 
 ### Comments
 
@@ -100,7 +100,7 @@ characters written on the line after the `#` will not be executed.
 Here’s an example of how we can “take notes” on what we’ve learned today
 in our new file.
 
-![](/images/1-comments.png)
+![](/Users/michaellok4/projects/DSCI101-data-viz/images/1-comments.png)
 
 *You’ll notice that our `Untitled1` file has an `**` at the end of the
 name in the Source pane. In RStudio, if a file has been changed since it
@@ -119,3 +119,12 @@ screenshot of our `Untitled1` file, line 8 has a comment but no code. If
 we were to execute that line, R would search for the next available
 snippet of code that could be executed, which is at line 9
 `print("Hello World!")`).
+
+In summary, there are two shortcuts to remember when executing code:
+
+-   `Cmd + Return` will execute the line of code your cursor is
+    currently on.
+    -   You can also highlight snippets of code and pressing
+        `Cmd + Return` will execute each of those lines.
+-   `Cmd + Shift + Return` will execute all the code in your current
+    script.
