@@ -87,7 +87,7 @@ start a new file in one of two ways:
     RStudio view, you’ll see a new pane pop up above your `Environment.`
     This is our `Source` pane, where we can read/edit files).
 
-![](/Users/michaellok4/projects/DSCI101-data-viz/images/1-new_file.png)
+![](/images/1-new_file.png)
 
 ### Comments
 
@@ -100,7 +100,7 @@ characters written on the line after the `#` will not be executed.
 Here’s an example of how we can “take notes” on what we’ve learned today
 in our new file.
 
-![](/Users/michaellok4/projects/DSCI101-data-viz/images/1-comments.png)
+![](/images/1-comments.png)
 
 *You’ll notice that our `Untitled1` file has an `**` at the end of the
 name in the Source pane. In RStudio, if a file has been changed since it
