@@ -20,6 +20,7 @@ This module will help with some of the basics of R. We'll skip on the boring his
 * Installation of R
 * Programming Syntax
 * Assigning Variables
+* Data Frame
 * R Data Types
 * Loading Data into the Workspace/Writing Datasets into Files
 * **Practice:** Performing Calculations on a Data Set
